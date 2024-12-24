@@ -2,7 +2,7 @@
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target": {
     "namespace": "android_app",
-    "package_name": "com.example.devapp",
+    "package_name": "com.proptechjapan.renteasetest1",
     "sha256_cert_fingerprints":
     ["1C:3C:10:5B:F5:21:52:D3:92:1F:2B:99:DC:CD:19:45:11:3F:E6:26:CD:69:16:5A:6D:60:DB:2A:F6:AF:F5:A5"]
   }
